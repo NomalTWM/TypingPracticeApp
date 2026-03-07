@@ -1,0 +1,43 @@
+Software process model or SDLC model is a simplified representation of a software process.
+Each process model represents a process from a particular perspective and thus only provides partial information about that process.
+System requirements reflect what the system should do not how it does it.
+Requirement engineering is the process of finding out, analysing, documenting and checking these services and constraints.
+User requirements are written for the user, natural language plus diagrams. Details are not needed.
+System requirements are more structured, detailed description of functions, services and constraints.
+Stakeholders are any person or organisation who is affected by the system in some way and so who has an interest in in.
+System requirements should be complete and consistent, even though this is often impossible.
+Non-functional requirements define system properties and constraints. e.g. IO device capability, system specs.
+Non-functional requirements are often more critical that functional requirements as if they are not met then the system may be useless.
+Ethnography is the act of observing actual work or how people interact in a social environment. People do not have to explain or articulate their work or actions during the observation.
+Requirements validation is concerned with demonstrating that the requirements define the system that the customer really wants. The costs of requirement errors are high, so validation is very important.
+Personas are ‘imagined users’ where you create a character portrait of a type of user that you think might use your product.
+Personas of different types of user help you imagine what these users may want to do with your software and how it might be used.
+Personas help you envisage difficulties that user's might have in understanding and using product features.
+Personas should be based on an understanding of the potential product users, their jobs, their background and their aspirations.
+When creating personas you should study and survey or interview potential users to understand what they want and how they might use the product.
+Personas that are developed on the basis of limited user information are called proto-personas.
+A scenario is a narrative that describes how a user, or a group of users, might use your system.
+There is no need to include everything in a scenario – the scenario isn’t a system specification.
+A scenario is simply a description of a situation where a user is using your product’s features to do something that they want to do.
+Scenario descriptions may vary in length from two to three paragraphs up to a page of text.
+User stories are finer-grain narratives that set out in a more detailed and structured way a single thing that a user wants from a software system.
+User stories should focus on a clearly defined system feature or aspect of a feature that can be implemented within a single sprint.
+Systems modelling is the process of developing abstract models of a system, with each model presenting a different view or perspective of that system.
+System modelling helps the analyst to understand the functionality of the system and models are used to communicate with customers.
+Models are used: as a means of facilitating discussion about an existing or proposed system, as a way of documenting an existing system and as a detailed system description that can be used to generate a system implementation.
+An external model covers the context or environment of the system.
+An interaction model covers the interactions between a system and its environment, or between the components of a system.
+A structural model covers the organisation of a system or the structure of the data that is processed by the system.
+A behavioural model covers the dynamic behaviour of the system and how it responds to events.
+A context diagram defines a boundary between the system, or part of a system, and its environment, showing the entities that interact with it.
+Context models simply show the other systems in the environment, not how the system being developed is used in that environment.
+Process models reveal how the system being developed is used in broader business processes.
+fart
+Large themes/stories that span multiple sprints are represented as epics, and broken down into many user stories. 
+An algorithm is a step-by-step procedure for solving a problem in a finite amount of time.
+A data structure a way for data to be organised in computer memory,
+Many algorithms are designed for specific data structures, data structure can help algorithms work efficiently.
+Time complexity is related to input size so to measure objectively we use Big O notation.
+Asymptotic refers to what a graph eventually tends towards.
+Decimal to binary conversion is an example of an algorithm that uses a stack.
+A linked list consists of a collection of nodes.
