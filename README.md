@@ -1,6 +1,6 @@
 TypingPracticeApp
 
-This is a basic console app written in C# to help me practice touch typing.
+This is a basic console app written in C# to help me practice touch typing. It is a prototype for a future project for a website based off this idea.
 
 You can select from a list of sample sentences, a list of common words or a list of all words.
 
