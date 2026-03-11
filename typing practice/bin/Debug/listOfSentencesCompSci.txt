@@ -32,7 +32,6 @@ A behavioural model covers the dynamic behaviour of the system and how it respon
 A context diagram defines a boundary between the system, or part of a system, and its environment, showing the entities that interact with it.
 Context models simply show the other systems in the environment, not how the system being developed is used in that environment.
 Process models reveal how the system being developed is used in broader business processes.
-fart
 Large themes/stories that span multiple sprints are represented as epics, and broken down into many user stories. 
 An algorithm is a step-by-step procedure for solving a problem in a finite amount of time.
 A data structure a way for data to be organised in computer memory,
